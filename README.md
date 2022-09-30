@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ericluj
+# Hi, I’m ericluj
 - 👀 I’m interested in Go
 - 🌱 I’m currently learning algorithm and operating system
-- 💞️ I’m writing my blog in https://ericluj.github.io/
+- 📖 I’m writing my blog in https://ericluj.github.io/
 - 📫 How to reach me ericlu2017@gmail.com
 
 <!---
